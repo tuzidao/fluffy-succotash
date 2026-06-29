@@ -1,0 +1,10 @@
+path: D:/深度学习/data2/VOCData
+train: images
+val: images
+
+nc: 4
+names:
+  0: face
+  1: smoke
+  2: phone
+  3: drink
